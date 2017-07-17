@@ -1,0 +1,2 @@
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.UWP\prjct4app.UWP.csproj;x86
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app\prjct4app.csproj;neutral

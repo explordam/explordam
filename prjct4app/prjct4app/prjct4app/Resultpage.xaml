@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+    <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:prjct4app"
+             x:Class="prjct4app.Resultpage">
+
+        <Grid Padding="5" RowSpacing="1" ColumnSpacing="1" BackgroundColor="Default">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <ListView x:Name="peopleList"
+              Grid.Row="4" RowHeight="125">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell Height="30">
+                            <StackLayout Padding="5">
+                                <StackLayout Orientation="Horizontal" HorizontalOptions="Start">
+                                    <StackLayout Orientation="Horizontal" HorizontalOptions="Start">
+                                        <Label Text="{Binding BeginTijd}" />
+                                        <Label Text="-" />
+                                        <Label Text="{Binding EindTijd}" />
+                                    </StackLayout>
+
+
+
+                                <Label Text="{Binding Naam}" />
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal" HorizontalOptions="Start">
+                                    <Image Source="{Binding Logo}}" />
+                                    <Label Text="{Binding Adress}" />
+                                    <Label Text="{Binding afstandvolgende}" />
+                                    
+                            </StackLayout>
+
+                                <Button HorizontalOptions="Center" Text="Visit" Clicked="visitwebsite" ClassId="{Binding URL}"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            
+
+        </Grid>
+    </ContentPage>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="prjct4app.Datepage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Op welke datum bezoekt u Rotterdam?" 
+                   Margin="0,20,0,20"
+                   HorizontalOptions="Center"/>
+            <Label Text="Datum" 
+                   FontSize="Large"
+                   HorizontalOptions="Center"/>
+            <DatePicker x:Name="DatumSelector"
+                        HorizontalOptions="Center"
+                        MinimumDate="12/31/2017"
+                        Date="12/31/2017"
+                        />
+            <Label Text="Tijd van aankomst" 
+                   FontSize="Large"
+                   HorizontalOptions="Center"/>
+            <TimePicker
+                   x:Name="BeginTijd"
+                   HorizontalOptions="Center"
+                   Time="00:00"
+                   />
+            <Label Text="Tijd van vertrek" 
+                   FontSize="Large"
+                   HorizontalOptions="Center"/>
+            <TimePicker x:Name="EindTijd"
+                        HorizontalOptions="Center"
+                        Time="23:59"
+                        />
+            <Button Text="Doorgaan"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center"
+                    Clicked="StartPageVisitor" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

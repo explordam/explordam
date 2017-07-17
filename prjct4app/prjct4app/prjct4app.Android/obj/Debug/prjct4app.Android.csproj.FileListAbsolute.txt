@@ -1,0 +1,286 @@
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.Android.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.Android.pdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\FormsViewGroup.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.pdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\FormsViewGroup.pdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\obj\Debug\prjct4app.Android.csprojResolveAssemblyReference.cache
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\obj\Debug\prjct4app.Android.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\obj\Debug\prjct4app.Android.pdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\drawable\icon.png
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\drawable-hdpi\icon.png
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\drawable-xhdpi\icon.png
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\layout\tabbar.xml
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\layout\toolbar.xml
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\values\styles.xml
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\obj\Debug\R.cs.flag
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\obj\Debug\uploadflags.txt
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.dll.mdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\FormsViewGroup.dll.mdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.Android.dll.mdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\prjct4app.Android.dll.mdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\prjct4app.dll.mdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\drawable\logo.png
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\groep3.app.apk
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\bin\Debug\groep3.app-Signed.apk
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\bin\groep3.app.apk
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\prjct4app.Android.csprojResolveAssemblyReference.cache
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\prjct4app.Android.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\prjct4app.Android.pdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.Android.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.Android.pdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\groep3.app.apk
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\groep3.app-Signed.apk
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\SQLite.Net.Async.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\SQLite.Net.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.pdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.dll.mdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\bin\groep3.app.apk
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\values\styles.xml
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\drawable\logo.png
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\R.cs.flag
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\uploadflags.txt
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.Android.dll.mdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\prjct4app.Android.dll.mdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\prjct4app.dll.mdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.Android.dll.config
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.Android.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.Android.pdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\groep3.app.apk
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\groep3.app-Signed.apk
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\SQLite.Net.Async.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\SQLite.Net.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.pdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.dll.config
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\prjct4app.Android.csprojResolveAssemblyReference.cache
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.Palette.dll.stamp
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.MediaRouter.dll.stamp
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\prjct4app.Android.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\prjct4app.Android.pdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\bin\groep3.app.apk
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\values\styles.xml
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\drawable\logo.png
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\R.cs.flag
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\uploadflags.txt
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.dll.mdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.Android.dll.mdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\prjct4app.Android.dll.mdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\prjct4app.dll.mdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\prjct4app.Android.csprojResolveAssemblyReference.cache
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.Palette.dll.stamp
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.MediaRouter.dll.stamp
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.Android.dll.config
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.Android.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.Android.pdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\groep3.app.apk
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\groep3.app-Signed.apk
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\SQLite.Net.Async.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\SQLite.Net.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.pdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.dll.config
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\prjct4app.Android.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\prjct4app.Android.pdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\bin\groep3.app.apk
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\values\styles.xml
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\res\drawable\logo.png
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\R.cs.flag
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\uploadflags.txt
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.dll.mdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\prjct4app.Android.dll.mdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\prjct4app.Android.dll.mdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\prjct4app.dll.mdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\SQLite-net.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\SQLite-net.xml
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\bin\Debug\SQLite-net.dll.mdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app.Android\obj\Debug\android\assets\SQLite-net.dll.mdb

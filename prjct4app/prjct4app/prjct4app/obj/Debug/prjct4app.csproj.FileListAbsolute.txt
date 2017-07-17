@@ -1,0 +1,106 @@
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app\bin\Debug\prjct4app.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app\bin\Debug\prjct4app.pdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.csprojResolveAssemblyReference.cache
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.MainPage.xaml.g.cs
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.App.xaml.g.cs
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.dll
+c:\users\sebastiaan\documents\visual studio 2017\Projects\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.pdb
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.InfoPage.xaml.g.cs
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.Datepage.xaml.g.cs
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.InteressePage.xaml.g.cs
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.csprojResolveAssemblyReference.cache
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.MainPage.xaml.g.cs
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.App.xaml.g.cs
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.InfoPage.xaml.g.cs
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.Datepage.xaml.g.cs
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.InteressePage.xaml.g.cs
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.Resultpage.xaml.g.cs
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.pdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\prjct4app.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\prjct4app.pdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\SQLite.Net.Async.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\SQLite.Net.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Sebastiaan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\prjct4app.dll.config
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\prjct4app.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\prjct4app.pdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\SQLite.Net.Async.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\SQLite.Net.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\System.Net.Http.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\System.Net.Http.xml
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.csproj.App.config
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.MainPage.xaml.g.cs
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.App.xaml.g.cs
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.InfoPage.xaml.g.cs
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.Datepage.xaml.g.cs
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.InteressePage.xaml.g.cs
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.Resultpage.xaml.g.cs
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.dll
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.pdb
+C:\Users\Sebastiaan\Desktop\4-7-2016 github ding\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.csprojResolveAssemblyReference.cache
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\prjct4app.dll.config
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\prjct4app.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\prjct4app.pdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\SQLite.Net.Async.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\SQLite.Net.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\System.Net.Http.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\System.Net.Http.xml
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.csproj.App.config
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.csprojResolveAssemblyReference.cache
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.MainPage.xaml.g.cs
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.App.xaml.g.cs
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.InfoPage.xaml.g.cs
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.Datepage.xaml.g.cs
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.InteressePage.xaml.g.cs
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.Resultpage.xaml.g.cs
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\obj\Debug\prjct4app.pdb
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\SQLite-net.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Milan\Documents\GitHub\explordam\prjct4app\prjct4app\prjct4app\bin\Debug\SQLite-net.xml
