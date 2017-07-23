@@ -8,7 +8,7 @@ using System.Net.Http.Headers;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System.Net;
-
+using prjct4app.WebServiceDetails;
 
 namespace prjct4app
 {
@@ -23,14 +23,14 @@ namespace prjct4app
             
             private const string Url = "https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&mode=walking&origins=place_id:";
 
-            public async static Task<RootObjectDistance> PlaceDistanceWebRequest(Resultaat result1, Resultaat result2)
+            public async static Task<RootObjectDistance> PlaceDistanceWebRequest(Resultaat result1, RootObject result2)
             {
                 try
                 {
                     
                     var client = new HttpClient();
 
-                    var distancejson = await client.GetStringAsync(string.Format((Url + result1.placeid + "&destinations=place_id:" + result2.placeid + "&key=" + "AIzaSyABsr2bhPqTsWnkz03YsJOr4XSpqqj7Jn0")));
+                    var distancejson = await client.GetStringAsync(string.Format((Url + result1.placeid + "&destinations=place_id:" + result2.result.place_id + "&key=" + "AIzaSyABsr2bhPqTsWnkz03YsJOr4XSpqqj7Jn0")));
                     var distances = JsonConvert.DeserializeObject<RootObjectDistance>(distancejson.ToString());
 
                     var duration = distances.rows[0].elements[0].duration.text;

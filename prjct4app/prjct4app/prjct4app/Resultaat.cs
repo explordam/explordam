@@ -52,11 +52,27 @@ namespace prjct4app
             }
         }
 
-        public async Task afstandresultaatAsync(Resultaat anderresultaat)
+        public async Task<int> afstandresultaatAsync(RootObject anderresultaat)
         {
-            
+            Debug.WriteLine("yolocase0");
             var afstand = await WebServiceDistance.PlaceDistance.PlaceDistanceWebRequest(this, anderresultaat);
+            Debug.WriteLine("yolocase1");
             this.afstandvolgende = afstand.rows[0].elements[0].duration.text;
+            Debug.WriteLine("yolocase2");
+            string[] afstandstrings = afstandvolgende.Split(' ');
+            Debug.WriteLine("yolocase3");
+            if (afstandstrings.Length > 2)
+            {
+                Debug.WriteLine("yoloboy");
+                return 9999;
+            }
+
+            else
+            {
+                Debug.WriteLine("yoloboy" + afstandstrings[0]);
+                Debug.WriteLine("yoloboy" + Convert.ToInt32(afstandstrings[0]));
+                return Convert.ToInt32(afstandstrings[0]);
+            }
         }
     }
 }

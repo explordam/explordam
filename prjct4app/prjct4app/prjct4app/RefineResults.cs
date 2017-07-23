@@ -55,6 +55,8 @@ namespace prjct4app
             {
                 int nieuwetijd = TimePlusInt(huidigetijd, IntToTime(200));
                 List<string> newplaceids = new List<string>();
+                string placeid = "";
+                bool added = false;
 
                 try
                 {
@@ -65,13 +67,6 @@ namespace prjct4app
                             newplaceids.AddRange(placeids["parks"]);
                         }
 
-                        rootobject = await placedetails.PlaceDetailsWebRequest(newplaceids[random.Next(0, newplaceids.Count - 1)]);
-
-
-                        resultaatlijst.Add(new Resultaat(rootobject, TimeToString(huidigetijd), TimeToString(nieuwetijd)));
-                        park = false;
-                        huidigetijd = nieuwetijd;
-
                     }
 
                     else if (huidigetijd >= 1000 && huidigetijd < 1400)
@@ -79,75 +74,90 @@ namespace prjct4app
                         if (museum)
                         {
                             newplaceids.AddRange(placeids["museums"]);
-                            rootobject = await placedetails.PlaceDetailsWebRequest(newplaceids[random.Next(0, newplaceids.Count - 1)]);
-
-                            if (huidigetijd >= Convert.ToInt32(rootobject.result.opening_hours.periods[day].open.time) && (nieuwetijd <= Convert.ToInt32(rootobject.result.opening_hours.periods[day].close.time) || Convert.ToInt32(rootobject.result.opening_hours.periods[day].close.time) == 0))
-                            {
-                                resultaatlijst.Add(new Resultaat(rootobject, TimeToString(huidigetijd), TimeToString(nieuwetijd)));
-
-                                museum = false;
-                                huidigetijd = nieuwetijd;
-                            }
                         }
 
-                        else if (shopping)
-                        {
-                            newplaceids.AddRange(placeids["shoppingmalls"]);
-                            rootobject = await placedetails.PlaceDetailsWebRequest(newplaceids[random.Next(0, newplaceids.Count - 1)]);
-                            if (huidigetijd >= Convert.ToInt32(rootobject.result.opening_hours.periods[day].open.time) && (nieuwetijd <= Convert.ToInt32(rootobject.result.opening_hours.periods[day].close.time) || Convert.ToInt32(rootobject.result.opening_hours.periods[day].close.time) == 0))
-                            {
-                                resultaatlijst.Add(new Resultaat(rootobject, TimeToString(huidigetijd), TimeToString(nieuwetijd)));
-
-                                shopping = false;
-                                huidigetijd = nieuwetijd;
-                            }
-                        }
-
-                        else if (park)
+                        if (park)
                         {
                             newplaceids.AddRange(placeids["parks"]);
-                            rootobject = await placedetails.PlaceDetailsWebRequest(newplaceids[random.Next(0, newplaceids.Count - 1)]);
-
-                            {
-                                resultaatlijst.Add(new Resultaat(rootobject, TimeToString(huidigetijd), TimeToString(nieuwetijd)));
-
-                                park = false;
-                                huidigetijd = nieuwetijd;
-                            }
                         }
 
-
+                        if (shopping)
+                        {
+                            newplaceids.AddRange(placeids["shoppingmalls"]);
+                        }
 
                     }
 
                     else if (huidigetijd >= 1400 && huidigetijd < 1800 && shopping)
                     {
-                        rootobject = await placedetails.PlaceDetailsWebRequest(placeids["shoppingmalls"][random.Next(0, placeids["shoppingmalls"].Count - 1)]);
+                        if (museum)
+                        {
+                            newplaceids.AddRange(placeids["museums"]);
+                        }
 
-                        resultaatlijst.Add(new Resultaat(rootobject, TimeToString(huidigetijd), TimeToString(nieuwetijd)));
-                        shopping = false;
-                        huidigetijd = nieuwetijd;
+                        if (park)
+                        {
+                            newplaceids.AddRange(placeids["parks"]);
+                        }
+
+                        if (shopping)
+                        {
+                            newplaceids.AddRange(placeids["shoppingmalls"]);
+                        }
 
                     }
 
                     else if (huidigetijd >= 1800 && huidigetijd < 2200 && restaurant)
                     {
-                        rootobject = await placedetails.PlaceDetailsWebRequest(placeids["restaurants"][random.Next(0, placeids["restaurants"].Count - 1)]);
-                        if (huidigetijd >= Convert.ToInt32(rootobject.result.opening_hours.periods[day].open.time) && (nieuwetijd <= Convert.ToInt32(rootobject.result.opening_hours.periods[day].close.time) || Convert.ToInt32(rootobject.result.opening_hours.periods[day].close.time) == 0))
+                        
+                        if (restaurant)
                         {
-                            resultaatlijst.Add(new Resultaat(rootobject, TimeToString(huidigetijd), TimeToString(nieuwetijd)));
-                            restaurant = false;
-                            huidigetijd = nieuwetijd;
+                            newplaceids.AddRange(placeids["restaurants"]);
                         }
+
+                        else if (park)
+                        {
+                            newplaceids.AddRange(placeids["parks"]);
+                        }
+
+                        placeid = newplaceids[random.Next(0, newplaceids.Count - 1)];
+                        rootobject = await placedetails.PlaceDetailsWebRequest(placeid);
+
                     }
 
                     else if (huidigetijd >= 2200 && nightclub)
                     {
-                        rootobject = await placedetails.PlaceDetailsWebRequest(placeids["nightclubs"][random.Next(0, placeids["nightclubs"].Count - 1)]);
+                        if (nightclub)
+                        {
+                            newplaceids.AddRange(placeids["nightclubs"]);        
+                        }
                         
+                    }
+
+                    placeid = newplaceids[random.Next(0, newplaceids.Count - 1)];
+                    rootobject = await placedetails.PlaceDetailsWebRequest(placeid);
+
+
+                    if (true) //(huidigetijd >= Convert.ToInt32(rootobject.result.opening_hours.periods[day].open.time) && (nieuwetijd <= Convert.ToInt32(rootobject.result.opening_hours.periods[day].close.time) || Convert.ToInt32(rootobject.result.opening_hours.periods[day].close.time) == 0))
+                    {
+                        if (resultaatlijst.Count > 0)
+                        {
+                            int afstand = await resultaatlijst[resultaatlijst.Count-1].afstandresultaatAsync(rootobject);
+                            if (afstand < 60)
+                            {
+                                resultaatlijst.Add(new Resultaat(rootobject, TimeToString(huidigetijd), TimeToString(nieuwetijd)));
+                                added = true;
+                                huidigetijd = nieuwetijd;
+                            }
+
+                        }
+
+                        else
+                        {
                             resultaatlijst.Add(new Resultaat(rootobject, TimeToString(huidigetijd), TimeToString(nieuwetijd)));
-                            nightclub = false;
+                            added = true;
                             huidigetijd = nieuwetijd;
+                        }
                         
                     }
 
@@ -158,12 +168,41 @@ namespace prjct4app
 
                 catch {  }
 
-                tries++;
+                if (added)
+                {
+                    if (placeids["parks"].Contains(placeid))
+                    {
+                        park = false;
+                    }
+
+                    else if (placeids["museums"].Contains(placeid))
+                    {
+                        museum = false;
+                    }
+
+                    else if (placeids["restaurants"].Contains(placeid))
+                    {
+                        restaurant = false;
+                    }
+
+                    else if (placeids["shoppingmalls"].Contains(placeid))
+                    {
+                        shopping = false;
+                    }
+
+                    else if (placeids["nightclubs"].Contains(placeid))
+                    {
+                        nightclub = false;
+                    }
+                }
+
+                else { tries++;}
+                
+
                 if (tries % limit == 0)
                 {
                     huidigetijd = nieuwetijd;
                 }
-
 
             }
 

@@ -59,11 +59,6 @@ namespace prjct4app
             System.Diagnostics.Debug.WriteLine("case2");
             await refine.FilterAsync(UneListeDuResults, placeids);
             System.Diagnostics.Debug.WriteLine("case3");
-            for (int i = 0; i < UneListeDuResults.Count - 1; i++)
-            {
-                await UneListeDuResults[i].afstandresultaatAsync(UneListeDuResults[i+1]);
-                
-            }
             System.Diagnostics.Debug.WriteLine("case4");
             ObservableCollection<Resultaat> UneListeDuResultsCollection = new ObservableCollection<Resultaat>(UneListeDuResults);
             peopleList.ItemsSource = UneListeDuResultsCollection;
